@@ -1,4 +1,4 @@
-package com.ohgiraffers.interfaceimplements;
+package com.ohgiraffers.section03.interfaceimplements;
 
 public interface InterProduct extends java.io.Serializable {
 
