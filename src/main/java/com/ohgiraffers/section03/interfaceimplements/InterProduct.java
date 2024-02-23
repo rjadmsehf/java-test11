@@ -39,4 +39,4 @@ public interface InterProduct extends java.io.Serializable {
 //public void jjg(){ 객체 생성이 안됍니다.
 }
 
-}
+
