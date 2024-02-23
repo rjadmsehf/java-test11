@@ -21,4 +21,5 @@ public class FireCar extends Car implements Soundable{
         System.out.println("다비켜~ 빵빵~");
 
     }
+
 }

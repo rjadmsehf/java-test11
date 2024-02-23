@@ -23,6 +23,13 @@ public abstract class Product {
     /**/
     public abstract void abstMethod();
 
+    public void jjg() {
+        System.out.println("전준규입니다");
+    }
+
+
+
+
 
 
 

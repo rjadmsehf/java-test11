@@ -36,5 +36,7 @@ public interface InterProduct extends java.io.Serializable {
         System.out.println("InterProduct 클래스의 staticMethod 호출됨...");
 
     }
+//public void jjg(){ 객체 생성이 안됍니다.
+}
 
 }

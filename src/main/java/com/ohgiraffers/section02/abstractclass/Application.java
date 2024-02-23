@@ -56,5 +56,6 @@ public class Application {
             필수 기능!!! 을 정의하여 강제성을 부여해 개발 시 일관 되게 만들 수 있다.
          */
 
+        product.jjg();
     }
 }
